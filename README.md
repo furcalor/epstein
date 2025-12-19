@@ -1,5 +1,3 @@
-Here’s a clean, straightforward README you can drop directly into your repo. It keeps things factual, neutral, and clear.
-
 Epstein PDF Archive (Converted to JPG)
 This repository contains a selection of publicly released documents from the U.S. Department of Justice related to the Epstein case.
 The original files are available at the DOJ website:
